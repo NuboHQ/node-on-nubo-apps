@@ -1,2 +1,1 @@
-# node-on-nubo-apps
-Node deployed on Nubo Apps
+# Node deployed on Nubo Apps
